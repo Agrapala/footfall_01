@@ -1,0 +1,4 @@
+opencv-python-headless==4.8.1.78
+numpy==1.23.5
+deepface==0.0.75
+tensorflow==2.10.1    # DeepFace backend
